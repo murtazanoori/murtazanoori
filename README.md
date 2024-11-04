@@ -18,7 +18,7 @@
 </details>
 <hr>
 
-![mMrtazas's GitHub stats](https://github-readme-stats.vercel.app/api?username=murtazanori&show_icons=true&theme=shadow_green)
+![mMrtazas's GitHub stats](https://github-readme-stats.vercel.app/api?username=murtazanoori&show_icons=true&theme=shadow_green)
 
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/metrics.repository.svg)
 
