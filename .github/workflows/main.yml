@@ -38,6 +38,15 @@ jobs:
          plugin_topics: yes
          plugin_topics_limit: 12
 
+      - name: Followers
+        uses: lowlighter/metrics@latest
+        with:
+         filename: metrics.plugin.people.followers.svg
+         token: ${{ secrets.METRICS_TOKEN }}
+         base: ""
+         plugin_people: yes
+         plugin_people_types: followers
+
       - name: Stargazers
         uses: lowlighter/metrics@latest
         with:
