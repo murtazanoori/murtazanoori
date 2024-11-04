@@ -7,7 +7,7 @@
 
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/introduction.svg?raw=true)
 
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/metrics.plugin.topics.svg)
+![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics.plugin.topics.svg)
 
 <details>
   <summary>Professional</summary>
