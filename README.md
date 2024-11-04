@@ -20,21 +20,22 @@
 
 ![mMrtazas's GitHub stats](https://github-readme-stats.vercel.app/api?username=murtazanoori&show_icons=true&theme=shadow_green)
 
+![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/achievements.svg)
+
+![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/habits.svg)
+
+![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/stars.svg)
+
+![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/leetcode.svg)
+
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/metrics.repository.svg)
 
-
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/achievements.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/followup.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/habits.svg)
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/isocalendar.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/leetcode.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/lines.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/pagespeed.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/people.svg)
+
+![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/followup.svg)
+
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/reactions.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/snippet.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/stargazers.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/stars.svg)
+
 
 
 
