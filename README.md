@@ -16,6 +16,7 @@
   - I have worked as an IT Administrator.
   - I currently work as a Freelancer on various projects.
 </details>
+<hr>
 
 
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/metrics.repository.svg)
