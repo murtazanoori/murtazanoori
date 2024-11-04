@@ -12,11 +12,11 @@ I'm murtazanoori, and I'm passionate about coding and technology.
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/leetcode.svg)
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/lines.svg)
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/pagespeed.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/metrics/people.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/metrics/reactions.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/metrics/snippet.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/metrics/stargazers.svg)
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/metrics/stars.svg)
+![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/people.svg)
+![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/reactions.svg)
+![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/snippet.svg)
+![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/stargazers.svg)
+![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/stars.svg)
 
 
 
