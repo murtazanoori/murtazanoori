@@ -5,7 +5,7 @@ I'm murtazanoori, and I'm passionate about coding and technology.
 <!-- GitHub Metrics -->
 ![Metrics](https://metrics.lecoq.io/murtazanoori)
 
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics.repository.svg)
+![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/metrics.repository.svg)
 
 
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/achievements.svg)
