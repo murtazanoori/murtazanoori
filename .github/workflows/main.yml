@@ -89,16 +89,6 @@ jobs:
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
 
-      - name: Followers
-        uses: lowlighter/metrics@latest
-        with:
-          user: murtazanoori
-          filename: metrics/people.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_people: yes
-          plugin_people_types: followers
-
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
