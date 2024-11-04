@@ -7,6 +7,17 @@
 
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/introduction.svg?raw=true)
 
+![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/metrics.plugin.topics.svg)
+
+<details>
+  <summary>Professional</summary>
+
+  - I hold a degree in Computer Science.
+  - I have worked as an IT Administrator.
+  - I currently work as a Freelancer on various projects.
+</details>
+
+
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/metrics.repository.svg)
 
 
