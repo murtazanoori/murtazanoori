@@ -32,7 +32,6 @@
 
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/isocalendar.svg)
 
-![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/people.svg)
 
 ![Image Alt Text](https://raw.githubusercontent.com/murtazanoori/murtazanoori/main/metrics/reactions.svg)
 
