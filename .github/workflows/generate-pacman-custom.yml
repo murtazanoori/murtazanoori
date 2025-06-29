@@ -1,14 +1,3 @@
-name: Generate Pac-Man Contribution Graph
-
-on:
-  schedule:
-    - cron: '0 0 * * *' # daily at midnight UTC
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -18,15 +7,16 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Clone Pac-Man repo
-        run: |
-          git clone https://github.com/platane/pacman-contribution-graph.git pacman
-          cd pacman
-          npm install
+      - name: Checkout Pac-Man repo
+        uses: actions/checkout@v3
+        with:
+          repository: platane/pacman-contribution-graph
+          path: pacman
 
       - name: Generate Pac-Man SVGs
         run: |
           cd pacman
+          npm install
           npx pacman-contribution-graph --user murtazanoori --output ../output
 
       - name: Commit and push generated SVGs
