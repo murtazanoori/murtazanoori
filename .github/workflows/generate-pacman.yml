@@ -1,0 +1,26 @@
+name: Generate Pac-Man
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual trigger from GitHub UI
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate pacman animation
+        uses: Platane/pacman-contribution-graph@v1
+        with:
+          github_user_name: murtazanoori
+          outputs: |
+            ./output/pacman-contribution-graph.svg
+            ./output/pacman-contribution-graph-dark.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: ./output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
