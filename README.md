@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🧠 Passionate about solving problems through code since 2019  <br>📚 Continuously learning modern tech stacks and best practices  <br>🚀 Striving to become one of the top developers in the industry  <br>🎮 Open-world gaming enthusiast in my off time</p>
+<p align="left">✨  Creating bugs since 2019 (but fixing a few too!)  <br>📚  Constantly learning new stacks and leveling up  <br>🎯  On a mission to become one of the best developers out there  <br>🎮  Big fan of open-world games and exploring digital worlds</p>
 
 ###
 
