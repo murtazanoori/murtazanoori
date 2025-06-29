@@ -112,9 +112,6 @@
 
 ###
 
-<br clear="both">
-
-
 ###
 
 <picture>
